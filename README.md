@@ -1,5 +1,7 @@
-Seminarski rad iz predmeta Projektovanje softvera
-Tema: Softverski sistem za praćenje treninga košarkaške ekipe Zlatar
+Seminarski rad iz predmeta Projektovanje softvera, Fakultet organizacionih nauka, Beograd 2020.
+
+Tema:
+Softverski sistem za praćenje treninga košarkaške ekipe Zlatar
 
 Opis:
 Potrebno je napraviti softverski sistem koji će da olakša vođenje evidencije o igračima, njihovim učincima koje ostvaruju na treningu,  treninzima u hali.  Trener će koristiti softverski sistem i forme koje mu on prikazuje za rad sa igračima, rad sa treninzima i učincima igrača na treningu.
