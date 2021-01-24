@@ -1,0 +1,36 @@
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Domen\obj\Debug\Domen.pdb

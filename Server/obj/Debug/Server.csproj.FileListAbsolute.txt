@@ -1,0 +1,78 @@
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\TempleteProjekatSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Server\obj\Debug\Server.pdb

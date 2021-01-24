@@ -1,0 +1,79 @@
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\PocetakC#\KSTemplate\Klijent\obj\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\PocetakC#\Klijent-Server Template\Klijent\obj\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjektovanjeNaajvaznije\KlijentServer\Klijent-Server Template\Klijent\obj\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavljivanjeTrenera.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosNovogIgraca.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiOIgracu.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaIgraca.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.FrmEvidentiranjeStatistikeIgraca.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTreninga.resources
+C:\Users\lazam\Desktop\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.IzmenaTreninga.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiOIgracu.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.FrmEvidentiranjeStatistikeIgraca.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.IzmenaTreninga.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaIgraca.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaTreninga.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavljivanjeTrenera.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosNovogIgraca.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\SoftveriSveZivo\ProjekatSoftveri\Zlatar\Klijent\obj\Debug\Klijent.pdb
